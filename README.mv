@@ -1,0 +1,26 @@
+# Pong Game
+
+A simple two-player Pong game built using Python Turtle.
+
+## Features
+- Two-player gameplay
+- Keyboard controls
+- Score tracking
+- Ball and paddle collision
+- Sound effects
+- Game over at 5 points
+
+## Technologies
+- Python
+- Turtle
+- Tkinter
+- Winsound
+
+## Controls
+Player A:
+W - Up
+S - Down
+
+Player B:
+↑ - Up
+↓ - Down
