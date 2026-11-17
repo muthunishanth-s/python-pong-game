@@ -1,7 +1,6 @@
 import turtle
 import tkinter
 import winsound
-import time
 
 score_A_player = 0
 score_B_player = 0
@@ -123,7 +122,6 @@ try:
             right_paddle.clear()
             pen.clear()
             pen.write("GAME OVER", align="center", font=("Ariel",24,"normal"))
-            time.sleep(1)
 
 
 except tkinter.TclError:
